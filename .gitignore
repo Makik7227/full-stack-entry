@@ -1,0 +1,9 @@
+/fullstack-frontend/node_modules/
+
+/fullstack-frontend/.idea/
+
+/docker/data/
+
+/fullstack-backend/.gradle/
+
+/fullstack-backend/build/
